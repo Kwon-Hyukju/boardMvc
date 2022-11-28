@@ -13,6 +13,7 @@ import com.koreait.action.ActionForward;
 
 @WebServlet("*.bo")
 public class BoardFrontController extends HttpServlet{
+	// 시바
 	
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) 
